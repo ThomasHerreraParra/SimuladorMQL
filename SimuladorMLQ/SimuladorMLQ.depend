@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1760911041 source:c:\users\usuario\onedrive\documents\univalle\so\simuladormlq\src\cola.cpp
+	"Cola.h"
+
+1760911041 c:\users\usuario\onedrive\documents\univalle\so\simuladormlq\include\cola.h
+	<queue>
+	"Proceso.h"
+
+1760911041 c:\users\usuario\onedrive\documents\univalle\so\simuladormlq\include\proceso.h
+	<string>
+
+1760911545 source:c:\users\usuario\onedrive\documents\univalle\so\simuladormlq\src\planificadormlq.cpp
+	"PlanificadorMLQ.h"
+	<fstream>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<algorithm>
+
+1760911107 c:\users\usuario\onedrive\documents\univalle\so\simuladormlq\include\planificadormlq.h
+	<vector>
+	<string>
+	"Cola.h"
+	"Proceso.h"
+
+1760911041 source:c:\users\usuario\onedrive\documents\univalle\so\simuladormlq\src\proceso.cpp
+	"Proceso.h"
+
+1760912469 source:c:\users\usuario\onedrive\documents\univalle\so\simuladormlq\main.cpp
+	<iostream>
+	"PlanificadorMLQ.h"
+
